@@ -1,1 +1,7 @@
 Giới Thiệu bản Thân: Tôi Tên Là Trần Minh Khang, sinh viên năm 4 ngành công nghệ thông tin ,tôi thích học lập trình và tìm hiểu công nghệ mới. Tôi luôn cố gắng cải thiện kỹ năng mỗi ngày. Mục Tiêu của tôi là trở thành một lập trình viên chuyên nghiệp. sở thích của tôi: chơi thể thao, học lập trình, nghe nhạc. Kỹ Năng: Sử dụng Git và Github, Lâp trình python, làm việc nhóm
+Kế hoạch học tập:
+- Ôn lại các lệnh Git và GitHub mỗi tuần.
+- Thực hành dự án nhóm để hiểu về merge và pull request.
+- Tự học thêm JavaScript và React.
+- Tham gia khóa học trực tuyến về phát triển phần mềm.
+- Hoàn thành đồ án cuối kỳ với nhóm bạn.
