@@ -1,0 +1,4 @@
+Tính năng: gợi ý học tập thông minh                                     - Hệ thống sẽ tự động tạo kế hoạch học tập dựa trên tiến độ người dùng.
+- Gợi ý bài học phù hợp với trình độ hiện tại.
+- Gửi thông báo nhắc học mỗi ngày.
+- Lưu lại lịch sử học và đánh giá hiệu suất.
